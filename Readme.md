@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Microsoft-Intern-blue?style=flat&logo=microsoft&logoColor=white">
-  <img src="https://img.shields.io/badge/LeetCode-1667-orange?style=flat&logo=leetcode">
+  <img src="https://img.shields.io/badge/LeetCode-orange?style=flat&logo=leetcode">
   <img src="https://img.shields.io/badge/MERN-Stack-green?style=flat&logo=react">
   <img src="https://img.shields.io/github/followers/DhruvKandpal?style=social">
 </p>
