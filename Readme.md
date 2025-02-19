@@ -16,7 +16,7 @@ Passionate about **Data Structures & Algorithms (DSA), Web Development (MERN, Ne
 
 - 💻 **500+ problems solved** on LeetCode 
 - 🎯 **Finalist** at **Smart India Hackathon 2023**  
-- 🚀 **Open Source & Research Enthusiast** (Currently writing a research paper on **HealthSync**)  
+- 🚀 **Open Source & Research Enthusiast** 
 
 ---
 
