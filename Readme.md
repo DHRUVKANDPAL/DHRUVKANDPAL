@@ -50,8 +50,7 @@ A **Next.js-powered integrated healthcare platform** designed to streamline pati
 
 
 
-### 🤖 **Dionysys** | AI-Powered Project Collaboration  
-🚀 **[Live Demo](https://diagnosis-virid.vercel.app/)**  
+### 🤖 **Dionysys** | AI-Powered Project Collaboration | **[Live Demo](https://diagnosis-virid.vercel.app/)**  
 A **next-gen AI assistant** for developers to streamline project management and collaboration.  
 
 ✅ **GitHub Project Indexing & RAG Model** – Ask AI queries about your repositories  
