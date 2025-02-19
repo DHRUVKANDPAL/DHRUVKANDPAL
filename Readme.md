@@ -18,7 +18,6 @@ Passionate about **Data Structures & Algorithms (DSA), Web Development (MERN, Ne
 - 🎯 **Finalist** at **Smart India Hackathon 2023**  
 - 🚀 **Open Source & Research Enthusiast** (Currently writing a research paper on **HealthSync**)  
 
-
 ---
 
 ## 🔥 Tech Stack & Tools  
@@ -42,10 +41,12 @@ Passionate about **Data Structures & Algorithms (DSA), Web Development (MERN, Ne
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 **⚡ Other Tools:**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)  
+![Gemini API](https://img.shields.io/badge/Gemini%20API-4285F4?style=flat&logo=google&logoColor=white)  
+![tRPC Router](https://img.shields.io/badge/tRPC%20Router-2596be?style=flat&logo=typescript&logoColor=white)  
+
+
 
 ---
 
@@ -85,12 +86,6 @@ _A **Swiggy-like** React app with cart & infinite scroll_
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DhruvKandpal&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
 
 ## 🎯 Get in Touch!  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruv-kandpal/)  
