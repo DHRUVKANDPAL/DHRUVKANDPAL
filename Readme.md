@@ -2,7 +2,6 @@
 <h1 align="center">🚀 Dhruv Kandpal | Software Engineer</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Microsoft-Intern-blue?style=flat&logo=microsoft&logoColor=white">
   <img src="https://img.shields.io/badge/LeetCode-500-orange?style=flat&logo=leetcode">
   <img src="https://img.shields.io/badge/MERN-Stack-green?style=flat&logo=react">
   <img src="https://img.shields.io/github/followers/DhruvKandpal?style=social">
@@ -11,7 +10,7 @@
 ---
 
 ### 👋 Hey there! I'm Dhruv  
-I'm a **Software Engineer Intern at Microsoft** and a **B.Tech IT student at NIT Jalandhar (Class of 2026).**  
+I'm a third year **B.Tech IT student at NIT Jalandhar (Class of 2026).**  
 Passionate about **Data Structures & Algorithms (DSA), Web Development (MERN, Next.js, Prisma, TypeScript), and System Design (LLD & HLD).**  
 
 - 💻 **500+ problems solved** on LeetCode 
