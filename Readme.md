@@ -62,7 +62,12 @@ Passionate about **Data Structures & Algorithms (DSA), Web Development (MERN, Ne
 </table>
 
 
-
+---
+<p align="center" >
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=dhruvkandpal&show_icons=true&theme=dracula" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvkandpal&theme=dracula&include_all_commits=true&count_private=true&layout=compact" /><br /> 
+  <img src="https://github-profile-trophy.vercel.app/?username=dhruvkandpal&theme=dracula">
+</p>
 
 ---
 
